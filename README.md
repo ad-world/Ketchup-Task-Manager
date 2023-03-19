@@ -12,7 +12,7 @@ The basics of the app include adding, editing, and deleting a task - create and 
 Completed a certain task? Good job! Mark tasks as "completed" and have them accessible in the "Completed" tasks section.\
 Deleted a task but changed your mind? No worries - head to the trash folder to restore a previously deleted item!
 
-Check out our in depth user documentation by visiting our <a href="https://git.uwaterloo.ca/a23dhing/cs346-project/-/wikis/App%20Tutorial" target="_blank">App Tutorial</a>, and visit out project <a href="https://git.uwaterloo.ca/a23dhing/cs346-project/-/wikis/home" target="_blank">Wiki</a> for more details.
+Check out our in depth user documentation by visiting our [App Tutorial](https://github.com/rishadluthra/Ketchup-Task-Manager/wiki/App%20Tutorial), and visit out project [Wiki](https://github.com/rishadluthra/Ketchup-Task-Manager/wiki) for more details.
 
 ## Authors
 - Aryaman Dhingra
