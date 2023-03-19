@@ -20,7 +20,7 @@ Check out our in depth user documentation by visiting our [App Tutorial](https:/
 
 ## License
 
-This software is distributed under an MIT [license](https://git.uwaterloo.ca/a23dhing/cs346-project/-/blob/main/LICENSE.txt).
+This software is distributed under an MIT [license](License).
 
 ## Third-party Libraries & Tools
 
