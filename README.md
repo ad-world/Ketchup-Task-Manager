@@ -1,7 +1,5 @@
 # Ketchup: Task Manager
 
-Check out our project [Wiki](https://github.com/rishadluthra/Ketchup-Task-Manager/wiki) for more details!
-
 ## Home
 Introducing Ketchup, a revolutionary desktop task manager app!
 
