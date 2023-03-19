@@ -20,7 +20,7 @@ Check out our in depth user documentation by visiting our [App Tutorial](https:/
 
 ## License
 
-This software is distributed under an MIT [license](License).
+This software is distributed under an MIT [License]((https://github.com/rishadluthra/Ketchup-Task-Manager/issues/2)).
 
 ## Third-party Libraries & Tools
 
