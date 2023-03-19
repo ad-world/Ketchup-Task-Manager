@@ -32,3 +32,5 @@ This software is distributed under an MIT [License](https://github.com/rishadlut
 
 ## Acknowledgment
 - Jeff Avery, Yiping Wang, and the CS346 course staff
+
+Note: Due to the Academic Integrity Policy of the University of Waterloo, we are unable to make the source code of our app public.
