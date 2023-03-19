@@ -3,9 +3,9 @@
 Check out our project [Wiki](https://git.uwaterloo.ca/a23dhing/cs346-project/-/wikis/home) for more details!
 
 ## Home
-Introducing Ketchup, a revolutionary desktop task app!
+Introducing Ketchup, a revolutionary desktop task manager app!
 
-![ALT](/Users/Rishadl_21/Documents/Rishad/Waterloo/3A Term/CS 346/cs346-project/source/app/src/main/resources/images/Image 2022-12-02 at 3.15 PM.JPG)
+![Image 2022-12-02 at 3 15 PM](https://user-images.githubusercontent.com/65348803/226212602-ee58d5cf-09b2-4a22-9306-25d7f611cd57.JPG)
 
 As the developers of this app, we wanted to create the best to-do app on the market, covering all essential features, and more!\
 The basics of the app include adding, editing, and deleting a task - create and add descriptions, deadlines, tags, and priorities for your todo items!\
