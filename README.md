@@ -1,6 +1,6 @@
 # Ketchup: Task Manager
 
-Check out our project [Wiki](https://git.uwaterloo.ca/a23dhing/cs346-project/-/wikis/home) for more details!
+Check out our project [Wiki](https://github.com/rishadluthra/Ketchup-Task-Manager/wiki) for more details!
 
 ## Home
 Introducing Ketchup, a revolutionary desktop task manager app!
