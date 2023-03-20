@@ -14,7 +14,7 @@ Check out our in depth user documentation by visiting our [App Tutorial](https:/
 
 ## Authors
 - Aryaman Dhingra
-- Arshvir Chauchary
+- Arshvir Chaudhary
 - Rishad Luthra
 - Ryan Bae
 
