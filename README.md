@@ -34,5 +34,6 @@ This software is distributed under an MIT [License](https://github.com/rishadlut
 - Jeff Avery, Yiping Wang, and the CS346 course staff
 
 Note: Due to the Academic Integrity Policy of the University of Waterloo, we are unable to make the source code of our app public.
+You can contact me to see the source code. 
 
 P.S: If you're wondering why our app is called Ketchup, it's a play on the phrase "catch-up"!
